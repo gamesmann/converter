@@ -63,5 +63,5 @@ python superkonverter.py
 - pip install pyinstaller
 
 ### Create .exe:
-pyinstaller --onefile --noconsole --name SuperConverter superkonverter.py
+pyinstaller --onefile --noconsole --name SuperConverter superv3.3.py
 - The result will be located in dist/SuperConverter.exe.
